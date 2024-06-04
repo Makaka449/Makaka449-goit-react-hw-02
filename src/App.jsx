@@ -1,9 +1,11 @@
 import { useState, useEffect } from "react";
 import "./App.css";
 
-import Description from './components/description';
-import Options from './components/options';
-import Feedback from "./components/feedback.jsx/feedback";
+import Description from "./components/description";
+import Options from "./components/options";
+import Feedback from "./components/feedback";
+import Notification from "./components/notification"
+
 
 
 function App() {
